@@ -13,4 +13,4 @@ Berikut merupakan screen shoot tampilan aplikasi Kuis Matematika dari Android St
 
 		     1. Rahmi Najla           (2008107010014) 
 		     2. Athaya Dzakiyya Mosya (2008107010036)
-		     3. Rahmi Susanti         (2108107010029)
+		     3. Rahmi Susanti         (2008107010092)
